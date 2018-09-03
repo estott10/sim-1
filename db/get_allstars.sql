@@ -1,0 +1,1 @@
+SELECT * FROM players WHERE ranking < 11
